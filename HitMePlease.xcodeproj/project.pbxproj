@@ -13,6 +13,18 @@
 		BE50FEE11DF44C250046A872 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE50FEDF1DF44C250046A872 /* Main.storyboard */; };
 		BE50FEE31DF44C250046A872 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE50FEE21DF44C250046A872 /* Assets.xcassets */; };
 		BE50FEE61DF44C250046A872 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE50FEE41DF44C250046A872 /* LaunchScreen.storyboard */; };
+		BE54C05B1DF5836500B4F497 /* AboutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BE54C0591DF5836500B4F497 /* AboutViewController.m */; };
+		BE54C05C1DF5836500B4F497 /* AboutViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BE54C05A1DF5836500B4F497 /* AboutViewController.xib */; };
+		BE54C07E1DF58CB900B4F497 /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = BE54C0751DF58CB900B4F497 /* Background.png */; };
+		BE54C07F1DF58CB900B4F497 /* Button-Highlighted.png in Resources */ = {isa = PBXBuildFile; fileRef = BE54C0761DF58CB900B4F497 /* Button-Highlighted.png */; };
+		BE54C0801DF58CB900B4F497 /* Button-Normal.png in Resources */ = {isa = PBXBuildFile; fileRef = BE54C0771DF58CB900B4F497 /* Button-Normal.png */; };
+		BE54C0811DF58CB900B4F497 /* SliderThumb-Highlighted.png in Resources */ = {isa = PBXBuildFile; fileRef = BE54C0781DF58CB900B4F497 /* SliderThumb-Highlighted.png */; };
+		BE54C0821DF58CB900B4F497 /* SliderThumb-Normal.png in Resources */ = {isa = PBXBuildFile; fileRef = BE54C0791DF58CB900B4F497 /* SliderThumb-Normal.png */; };
+		BE54C0831DF58CB900B4F497 /* SliderTrackLeft.png in Resources */ = {isa = PBXBuildFile; fileRef = BE54C07A1DF58CB900B4F497 /* SliderTrackLeft.png */; };
+		BE54C0841DF58CB900B4F497 /* SliderTrackRight.png in Resources */ = {isa = PBXBuildFile; fileRef = BE54C07B1DF58CB900B4F497 /* SliderTrackRight.png */; };
+		BE54C0851DF58CB900B4F497 /* StartOverButton.png in Resources */ = {isa = PBXBuildFile; fileRef = BE54C07C1DF58CB900B4F497 /* StartOverButton.png */; };
+		BE54C0861DF58CB900B4F497 /* StartOverIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = BE54C07D1DF58CB900B4F497 /* StartOverIcon.png */; };
+		BE54C0881DF58E3F00B4F497 /* CrazyDrag.html in Resources */ = {isa = PBXBuildFile; fileRef = BE54C0871DF58E3F00B4F497 /* CrazyDrag.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +38,19 @@
 		BE50FEE21DF44C250046A872 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BE50FEE51DF44C250046A872 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BE50FEE71DF44C250046A872 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BE54C0581DF5836500B4F497 /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AboutViewController.h; path = ../AboutViewController.h; sourceTree = "<group>"; };
+		BE54C0591DF5836500B4F497 /* AboutViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AboutViewController.m; path = ../AboutViewController.m; sourceTree = "<group>"; };
+		BE54C05A1DF5836500B4F497 /* AboutViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = AboutViewController.xib; path = ../AboutViewController.xib; sourceTree = "<group>"; };
+		BE54C0751DF58CB900B4F497 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Background.png; sourceTree = "<group>"; };
+		BE54C0761DF58CB900B4F497 /* Button-Highlighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button-Highlighted.png"; sourceTree = "<group>"; };
+		BE54C0771DF58CB900B4F497 /* Button-Normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Button-Normal.png"; sourceTree = "<group>"; };
+		BE54C0781DF58CB900B4F497 /* SliderThumb-Highlighted.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SliderThumb-Highlighted.png"; sourceTree = "<group>"; };
+		BE54C0791DF58CB900B4F497 /* SliderThumb-Normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SliderThumb-Normal.png"; sourceTree = "<group>"; };
+		BE54C07A1DF58CB900B4F497 /* SliderTrackLeft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SliderTrackLeft.png; sourceTree = "<group>"; };
+		BE54C07B1DF58CB900B4F497 /* SliderTrackRight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SliderTrackRight.png; sourceTree = "<group>"; };
+		BE54C07C1DF58CB900B4F497 /* StartOverButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StartOverButton.png; sourceTree = "<group>"; };
+		BE54C07D1DF58CB900B4F497 /* StartOverIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StartOverIcon.png; sourceTree = "<group>"; };
+		BE54C0871DF58E3F00B4F497 /* CrazyDrag.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = CrazyDrag.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +83,11 @@
 		BE50FED51DF44C250046A872 /* HitMePlease */ = {
 			isa = PBXGroup;
 			children = (
+				BE54C0871DF58E3F00B4F497 /* CrazyDrag.html */,
+				BE54C0741DF58CB900B4F497 /* Images */,
+				BE54C0581DF5836500B4F497 /* AboutViewController.h */,
+				BE54C0591DF5836500B4F497 /* AboutViewController.m */,
+				BE54C05A1DF5836500B4F497 /* AboutViewController.xib */,
 				BE50FED91DF44C250046A872 /* AppDelegate.h */,
 				BE50FEDA1DF44C250046A872 /* AppDelegate.m */,
 				BE50FEDC1DF44C250046A872 /* ViewController.h */,
@@ -77,6 +107,22 @@
 				BE50FED71DF44C250046A872 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		BE54C0741DF58CB900B4F497 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				BE54C0751DF58CB900B4F497 /* Background.png */,
+				BE54C0761DF58CB900B4F497 /* Button-Highlighted.png */,
+				BE54C0771DF58CB900B4F497 /* Button-Normal.png */,
+				BE54C0781DF58CB900B4F497 /* SliderThumb-Highlighted.png */,
+				BE54C0791DF58CB900B4F497 /* SliderThumb-Normal.png */,
+				BE54C07A1DF58CB900B4F497 /* SliderTrackLeft.png */,
+				BE54C07B1DF58CB900B4F497 /* SliderTrackRight.png */,
+				BE54C07C1DF58CB900B4F497 /* StartOverButton.png */,
+				BE54C07D1DF58CB900B4F497 /* StartOverIcon.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -140,7 +186,18 @@
 			files = (
 				BE50FEE61DF44C250046A872 /* LaunchScreen.storyboard in Resources */,
 				BE50FEE31DF44C250046A872 /* Assets.xcassets in Resources */,
+				BE54C0801DF58CB900B4F497 /* Button-Normal.png in Resources */,
+				BE54C0831DF58CB900B4F497 /* SliderTrackLeft.png in Resources */,
+				BE54C0881DF58E3F00B4F497 /* CrazyDrag.html in Resources */,
+				BE54C07E1DF58CB900B4F497 /* Background.png in Resources */,
+				BE54C07F1DF58CB900B4F497 /* Button-Highlighted.png in Resources */,
+				BE54C05C1DF5836500B4F497 /* AboutViewController.xib in Resources */,
+				BE54C0841DF58CB900B4F497 /* SliderTrackRight.png in Resources */,
+				BE54C0851DF58CB900B4F497 /* StartOverButton.png in Resources */,
+				BE54C0861DF58CB900B4F497 /* StartOverIcon.png in Resources */,
 				BE50FEE11DF44C250046A872 /* Main.storyboard in Resources */,
+				BE54C0821DF58CB900B4F497 /* SliderThumb-Normal.png in Resources */,
+				BE54C0811DF58CB900B4F497 /* SliderThumb-Highlighted.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -153,6 +210,7 @@
 			files = (
 				BE50FEDE1DF44C250046A872 /* ViewController.m in Sources */,
 				BE50FEDB1DF44C250046A872 /* AppDelegate.m in Sources */,
+				BE54C05B1DF5836500B4F497 /* AboutViewController.m in Sources */,
 				BE50FED81DF44C250046A872 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -312,6 +370,7 @@
 				BE50FEEC1DF44C250046A872 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
